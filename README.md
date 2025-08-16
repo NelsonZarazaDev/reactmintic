@@ -42,7 +42,7 @@ SweetAlert2
 ```
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```plaintext
 /
