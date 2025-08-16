@@ -1,11 +1,9 @@
-import LoginPage from "./pages/loginPages/LoginPage";
+import UseState from "./playground/useState/UseState";
 
 function App() {
   return (
     <>
-      <LoginPage />
-      <LoginPage />
-      <LoginPage />
+      <UseState />
     </>
   );
 }
